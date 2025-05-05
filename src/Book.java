@@ -9,6 +9,7 @@ import java.util.List;
 public class Book {
     private String title;
     private String fixcode;
+    private int vip;
     private String author;
     private List<TextComponent> contents;
 
