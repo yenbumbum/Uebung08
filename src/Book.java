@@ -8,6 +8,7 @@ import java.util.List;
 //fix nay moi hon nua ne
 public class Book {
     private String title;
+    private String fixcode;
     private String author;
     private List<TextComponent> contents;
 
